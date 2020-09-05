@@ -1,0 +1,48 @@
+h1{
+                margin-left: 40%;
+                margin-top: 10%;
+            }
+            .tab{
+                
+                margin-top: 3%;
+                 margin-left: 40%;
+                
+            }
+            .tab td,tr{
+                padding: 15px;
+                text-align: center;
+                
+            }
+            #sub{
+                border: 0px;
+                background-color: aquamarine;
+                width: 60%;
+                height: 30px;
+            }
+.row{
+                margin-top: 10%;
+                margin-left: 40%;
+            }
+            .card{
+                margin-left: 24%;
+                width: 50%;
+            }
+            .table{
+                text-align: center;
+            }
+            button{
+                border: none;
+                backface-visibility: visible;
+                width: 100%;
+            }
+            #exp:hover{
+                border: 0px;
+                border-bottom: 1px solid blue:
+            }
+            #exp{
+                width: 100%;
+            }
+            button:hover{
+                background-color: aquamarine;
+                border-bottom: 1px solid black;
+            }
